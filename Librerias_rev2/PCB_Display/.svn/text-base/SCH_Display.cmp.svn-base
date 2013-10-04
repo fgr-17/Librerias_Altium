@@ -1,0 +1,38 @@
+Component Name : DOGM128x64DOTS
+
+Part Count : 2
+
+Part : Display
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : Display
+     Pins - (Normal) : 26
+          NC             1              Passive
+          NC             2              Passive
+          NC             3              Passive
+          NC             18             Passive
+          NC             19             Passive
+          NC             20             Passive
+          V0             21             Passive
+          V1             22             Passive
+          V2             23             Passive
+          V3             24             Passive
+          V4             25             Passive
+          VSS            26             Passive
+          CAP2N          27             Passive
+          CAP2P          28             Passive
+          CAP1P          29             Passive
+          CAP1N          30             Passive
+          CAP3P          31             Passive
+          VOUT           32             Passive
+          VSS            33             Passive
+          VDD2           34             Passive
+          VDD            35             Passive
+          SI             36             Passive
+          SCL            37             Passive
+          A0             38             Passive
+          RST            39             Passive
+          CS1B           40             Passive
+          Hidden Pins : 
+

@@ -1,0 +1,92 @@
+Component Name : MSP430F5529
+
+Part Count : 2
+
+Part : U?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : U?
+     Pins - (Normal) : 80
+          P6.4/CB4/A4    1              Passive
+          P6.5/CB5/A5    2              Passive
+          P6.6/CB6/A6    3              Passive
+          P6.7/CB7/A7    4              Passive
+          P7.0/CB8/A12   5              Passive
+          P7.1/CB9/A13   6              Passive
+          P7.2/CB10/A14  7              Passive
+          P7.3/CB11/A15  8              Passive
+          P5.0/A8/VREF+/VeREF+9              Passive
+          P5.1/A9/VREF-/VeREF-10             Passive
+          AVCC1          11             Passive
+          P5.4/XIN       12             Passive
+          P5.5/XOUT      13             Passive
+          AVSS1          14             Passive
+          P8.0           15             Passive
+          P8.1           16             Passive
+          P8.2           17             Passive
+          DVCC1          18             Passive
+          DVSS1          19             Passive
+          VCORE          20             Passive
+          P1.0/TA0CLK/ACLK21             Passive
+          P1.1/TA0.0     22             Passive
+          P1.2/TA0.1     23             Passive
+          P1.3/TA0.2     24             Passive
+          P1.4/TA0.3     25             Passive
+          P1.5/TA0.4     26             Passive
+          P1.6/TA1CLK/CBOUT27             Passive
+          P1.7/TA1.0     28             Passive
+          P2.0/TA1.1     29             Passive
+          P2.1/TA1.2     30             Passive
+          P2.2/TA2CLK/SMCLK31             Passive
+          P2.3/TA2.0     32             Passive
+          P2.4/TA2.1     33             Passive
+          P2.5/TA2.2     34             Passive
+          P2.6/RTCCLK/DMAE035             Passive
+          P2.7/UCB0STE/UCA0CLK36             Passive
+          P3.0/UCB0SIMO/UCB0SDA37             Passive
+          P3.1/UCB0SOMI/UCB0SCL38             Passive
+          P3.2/UCB0CLK/UCA0STE39             Passive
+          P3.3/UCA0TXD/UCA0SIMO40             Passive
+          P3.4/UCA0RXD/UCA0SOMI41             Passive
+          P3.5/TB0.5     42             Passive
+          P3.6/TB0.6     43             Passive
+          P3.7/TB0OUTH/SVMOUT44             Passive
+          P4.0/PM_UCB1STE/PM_UCA1CLK45             Passive
+          P4.1/PM_UCB1SIMO/PM_UCB1SDA46             Passive
+          P4.2/PM_UCB1SOMI/PM_UCB1SCL47             Passive
+          P4.3/PM_UCB1CLK/PM_UCA1STE48             Passive
+          DVSS2          49             Passive
+          DVCC2          50             Passive
+          P4.4/PM_UCA1TXD/PM_UCA1SIMO51             Passive
+          P4.5/PM_UCA1RXD/PM_UCA1SOMI52             Passive
+          P4.6/PM_NONE   53             Passive
+          P4.7/PM_NONE   54             Passive
+          P5.6/TB0.0     55             Passive
+          P5.7/TB0.1     56             Passive
+          P7.4/TB0.2     57             Passive
+          P7.5/TB0.3     58             Passive
+          P7.6/TB0.4     59             Passive
+          P7.7/TB0CLK/MCLK60             Passive
+          VSSU           61             Passive
+          PU.0/DP        62             Passive
+          PUR            63             Passive
+          PU.1/DM        64             Passive
+          VBUS           65             Passive
+          VUSB           66             Passive
+          V18            67             Passive
+          AVSS2          68             Passive
+          P5.2/XT2IN     69             Passive
+          P5.3/XT2OUT    70             Passive
+          TEST/SBWTCK    71             Passive
+          PJ.0/TDO       72             Passive
+          PJ.1/TDI/TCLK  73             Passive
+          PJ.2/TMS       74             Passive
+          PJ.3/TCK       75             Passive
+          RST/NMI/SBWTDIO76             Passive
+          P6.0/CB0/A0    77             Passive
+          P6.1/CB1/A1    78             Passive
+          P6.2/CB2/A2    79             Passive
+          P6.3/CB3/A3    80             Passive
+          Hidden Pins : 
+

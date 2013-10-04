@@ -1,0 +1,17 @@
+Component Name : TPD2E001DRLR
+
+Part Count : 2
+
+Part : U?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : U?
+     Pins - (Normal) : 5
+          VCC            1              Passive
+          N/C            2              Passive
+          IO1            3              Passive
+          GND            4              Passive
+          IO2            5              Passive
+          Hidden Pins : 
+

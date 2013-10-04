@@ -1,0 +1,20 @@
+Component Name : LP2989
+
+Part Count : 2
+
+Part : U?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : U?
+     Pins - (Normal) : 8
+          BYPASS         1              Passive
+          N/C            2              Passive
+          GND            3              Passive
+          INPUT          4              Passive
+          OUTPUT         5              Passive
+          SENSE          6              Passive
+          ERROR          7              Passive
+          SHUTDOWN       8              Passive
+          Hidden Pins : 
+
